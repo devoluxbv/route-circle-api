@@ -1,12 +1,11 @@
 # API to Get a map picture with a circle in given coordinates and radius
 
 ## Example of use
-![map_picture](https://github.com/devoluxbv/car-info-api/assets/94750857/365620f7-7620-4d75-9f02-e6d2f1f987c9)
+![y_local](https://github.com/devoluxbv/car-info-api/assets/94750857/7a143456-d3a4-4708-96b3-176e1fb6470b)
 
 
 ## Example of pictures
-![map_5edeb1ce-ad40-4491-aa30-6f58b7cb32c3](https://github.com/devoluxbv/car-info-api/assets/94750857/d3571db2-91bf-4545-9342-d47eac87dc08)
 
-![map_5518eabe-f21e-4fac-b06d-7074f9df0bef](https://github.com/devoluxbv/car-info-api/assets/94750857/457aabc7-7bbf-4d5c-a97e-3a546d0650ad)
+![map_e2af296b-38d8-4e21-8cbb-20805a172d91](https://github.com/devoluxbv/car-info-api/assets/94750857/d16417e0-5001-4b9b-925e-aa4486c25ad8)
 
-![map_5cd57f2c-2e65-4776-9468-9640210dcf60](https://github.com/devoluxbv/car-info-api/assets/94750857/04dbfbed-3e18-40a0-a0f3-de27e299a300)
+![map_80b2e67a-c7b9-4489-b35f-473377b997b8](https://github.com/devoluxbv/car-info-api/assets/94750857/4a2086dc-2dab-4b89-b579-25b6ee291c14)
