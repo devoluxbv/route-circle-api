@@ -1,0 +1,24 @@
+name: Build and Deploy
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: 3.11
+        
+    - name: Build Docker image
+      run: |
+          docker build -t devolux/route-circle-api:latest .
+          docker tag devolux/route-circle-api:latest devolux/route-circle-api:latest
