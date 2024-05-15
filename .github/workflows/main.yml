@@ -29,6 +29,6 @@ jobs:
     - name: Push Docker image to Docker Hub
       run: docker push devolux/route-circle-api:latest
 
-    - name: Send HTTP Request to Portainer
+    - name: Send HTTP Request to Portainer Docker
       run: |
         curl -X POST -d '{}' https://docker.devolux.nl/api/stacks/webhooks/66541ee7-6b96-43df-a130-25d820761e9c
