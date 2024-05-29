@@ -1,7 +1,30 @@
 # API to Get a map picture with a circle in given coordinates and radius
 
 ## Example of use
-![y_local](https://github.com/devoluxbv/car-info-api/assets/94750857/7a143456-d3a4-4708-96b3-176e1fb6470b)
+![image](https://github.com/devoluxbv/route-circle-api/assets/94750857/5383206e-fc66-44a9-a393-e4d48efc2ca3)
+>
+>{
+    "latitude": 4.175175,
+    "longitude": 73.508067,
+    "radius": 0.8,
+    "icon": "plane",
+    "labels-in-local-lang": true,
+    "text": "BEST Hotels",
+    "markers": [
+        {
+            "latitude": 4.175923,
+            "longitude": 73.503116,
+            "icon": "hotel",
+            "text": "Super-Hotel"
+        },
+        {
+            "latitude": 4.177870,
+            "longitude": 73.514540,
+            "icon": "resort-hotel",
+            "text": "LUX-Hotel"
+        }
+    ]
+}
 
 
 ## Example of pictures
